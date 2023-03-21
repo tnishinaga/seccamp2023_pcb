@@ -4005,7 +4005,7 @@
     (property "Value" "RP2040" (at 156.21 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm" (at 157.48 85.09 0)
+    (property "Footprint" "rp2040:RP2040_QFN56_HandSolderHack" (at 157.48 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 156.21 54.61 0)
