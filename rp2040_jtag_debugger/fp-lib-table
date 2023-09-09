@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "rp2040")(type "KiCad")(uri "${KIPRJMOD}/libs/rp2040/rp2040.pretty")(options "")(descr ""))
   (lib (name "cuhs20s30")(type "KiCad")(uri "${KIPRJMOD}/libs/cuhs20s30/cuhs20s30.pretty")(options "")(descr ""))
+  (lib (name "pmdu")(type "KiCad")(uri "${KIPRJMOD}/libs/RB160M-30/pmdu.pretty")(options "")(descr ""))
 )
